@@ -10,3 +10,7 @@ python main.py
 ```
 
 Then a file called `output.json` should appear containing the items and their skins.
+
+## Known Issues
+If a section is added underneath the current skins section on the scraped site,
+then the scraper will likely fail.
